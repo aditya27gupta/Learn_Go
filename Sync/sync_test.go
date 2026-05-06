@@ -1,4 +1,4 @@
-package sync_counter
+package main
 
 import (
 	"sync"
